@@ -2,7 +2,6 @@
 
 
 
-
 #app{
   font-family:Avenir,Helvetica,Arial,sans-serif;
 -webkit-font-smoothing:antialiased;
@@ -89,7 +88,7 @@ background:url(./img_bg@3x.0055ee09.0055ee09.png) no-repeat;
   background-size:100% 100%;
   /*使得充分显示背景图*/
 /*margin-top:-.45rem;*/
-margin-top:0rem;
+margin-top:0.8rem;
 /*设置往上移*/
 height:100%;
 min-height:14rem;
