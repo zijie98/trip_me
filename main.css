@@ -1,7 +1,6 @@
 
 
 
-
 #app{
   font-family:Avenir,Helvetica,Arial,sans-serif;
 -webkit-font-smoothing:antialiased;
@@ -131,9 +130,9 @@ min-height:7.12rem;
 margin:27px auto 0 auto;
 background-color:#fff;
 border-radius:.24rem;
--webkit-box-shadow:0 0 .24rem 0 #dedede;
+-webkit-box-shadow:0 0 0rem 0 #dedede;
     /*设置阴影*/
-box-shadow:0 0 .24rem 0 #dedede;
+box-shadow:0 0 0rem 0 #dedede;
 overflow:hidden
   
 }
@@ -287,7 +286,7 @@ color:#fff
 }
 
 .for_pad_end{
-  padding: 50px;
+  padding: 30px;
   
 }
 
